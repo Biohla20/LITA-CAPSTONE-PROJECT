@@ -22,15 +22,22 @@ Shoes appears to be the top performing product with generated revenue amount at 
 
 *The illustration below shows the top performing product (shoes) in terms of generated revenue and some other items that may be interesting to note such as minimum and maximum unit price, minimum and maximum quantity sold, average of revenue, etc.*
 
-![PowerBI Pg 3](https://github.com/user-attachments/assets/18ec112f-aca4-4fc4-9619-c24f9f7c571e)
+![PowerBI Pg 3](https://github.com/user-attachments/assets/f698755e-4a13-4124-be9b-6a30c45846cd)
 
 The Southern region made the most revenue with four million, six hundred and seventy five thousand dollars ($4,675,000) selling three (3) products viz socks, shoes and gloves, this accounted for 44.16% of the total revenue, while the Western region made the least revenue, one million, five hundred and twelve thousand, five hundred dollars ($1,512,500) despite selling four (4) products viz socks, shoes, hat and gloves.
 
+*Below are pictorial illustrations of product distributions and revenue generation across regions.*
+
+![PowerBI Pg 4](https://github.com/user-attachments/assets/0d0ac58f-4755-4070-a325-30a81a625cc7)
 
 #### Inference
 - There should be an investigation as to why the West is not making huge sales (revenue).
 - The tchnique employed in the South which helps the region to generate huge revenue should be introduce in the West and other regions if possible, so that all regions can make huge profits.
-- Hat can remain on the product list, since there will always be a product that will do well or not do well, in any case, the well performing product and the not so well performing product will complement each other
+- Hat can remain on the product list, since there will always be a product that will do well or not do well, in any case, the well performing product and the not so well performing product will complement each other.
+
+#### Additional Documentation
+The capstone project questions requires that we attend to some using Microsoft Excel and SQL respectively.
+Please see below images of Microsoft Excel worksheet and SQL management studion.
 
   #### 'K'OMMUNICATE SUBSCRIPTION SUMMARY
 This division deals with telecommunications, specifically, providing internet service to end users. It has three (3) subscription packages (Basic, Premium, Standard), and serviced four regions (East, North, South, West) in the period described, seventy five thousand (75,000) transactions was recorded amongst twenty (20) returning customers across all four (4) regions. While some regions had some subscription cancellations, the Eastern region subscribed for the Basic package only, and no one cancelled their subscriptions through out the contract tenure. 
