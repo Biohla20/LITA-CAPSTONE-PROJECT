@@ -18,7 +18,7 @@ The Southern region made the most revenue with four million, six hundred and sev
 
 ![PowerBI Pg2](https://github.com/user-attachments/assets/8a6723e6-9902-4d96-8a0a-95863dfdb342)
 
-##### Inference
+#### Inference
 - The West needs to be checked for why its not making huge sales
 - What is happening in the South that is making it record huge sales should be introduced in the West and other regions if possible
 - Hat can remain on the product list, since there will always be a product that will do well or not do well, in any case, the well performing product and the not so well performing product will always complement each other
@@ -31,3 +31,9 @@ Five hundred (500) returning customers were served, this was splited over fifty 
 Shoes appears to be the top performing product with generated revenue amount at three million, eighty seven thousand and five hundred dollars ($3,087,500) with shirt coming in as second in line. Socks is the least on the revenue list with nine hundred and twelve thousand, five hundred dollars ($912,500), although socks is not the least performing product but hat which despite the quantity sold, the average revenue is the least on the product list for averages.
 
 The Southern region made the most revenue with four million, six hundred and seventy five thousand dollars ($4,675,000) selling three (3) products viz socks, shoes and gloves while the Western region made the least revenue, one million, five hundred and twelve thousand, five hundred dollars ($1,512,500) despite selling four (4) products viz socks, shoes, hat and gloves.
+
+![PowerBI Pg 3](https://github.com/user-attachments/assets/5fcae494-f494-46ee-a566-28fb323b2bf5)
+
+![PowerBI Pg4](https://github.com/user-attachments/assets/00a09ca7-396d-40ce-9bf4-c137320ad11b)
+
+#### Inference
