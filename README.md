@@ -47,6 +47,21 @@ Please see below images of Microsoft Excel worksheet and SQL management studio.
 
 - *Diagram showing Excel formulas to calculate metrics such as average sales per product, total revenue by region, and other interesting report*
 
+![SalesData Excel Pg 1](https://github.com/user-attachments/assets/31210368-d75f-49f8-8f66-1c00a24d9a2e)
+
+![SalesData Excel Pg 2](https://github.com/user-attachments/assets/f4ee34b6-b5c1-46b1-9b09-5fdf5594c07e)
+
+- *Screenshots of answers to all the SQL questions for SalesData*
+
+![SaleData SQL Q1](https://github.com/user-attachments/assets/e1eff57e-43c0-49fe-bcf6-150e161dc758)
+
+![SaleData SQL Q2](https://github.com/user-attachments/assets/8e441f60-be24-491f-891a-eb226acdd7f8)
+
+![SaleData SQL Q3 4](https://github.com/user-attachments/assets/c5fd8a1d-09d5-4615-b821-291882b59f3c)
+
+![SaleData SQL Q6](https://github.com/user-attachments/assets/5ee081d0-53d3-4739-9a0b-e56dc6ab2824)
+
+
   #### 'K'OMMUNICATE SUBSCRIPTION SUMMARY
 This division deals with telecommunications, specifically, providing internet service to end users. It has three (3) subscription packages (Basic, Premium, Standard), and serviced four regions (East, North, South, West) in the period described, seventy five thousand (75,000) transactions was recorded amongst twenty (20) returning customers across all four (4) regions. While some regions had some subscription cancellations, the Eastern region subscribed for the Basic package only, and no one cancelled their subscriptions through out the contract tenure. 
 
