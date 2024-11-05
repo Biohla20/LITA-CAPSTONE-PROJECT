@@ -20,8 +20,11 @@ Five hundred (500) returning customers were served, this was splited over fifty 
 
 Shoes appears to be the top performing product with generated revenue amount at three million, eighty seven thousand and five hundred dollars ($3,087,500) with shirt coming in as second in line. Socks is the least on the revenue list with nine hundred and twelve thousand, five hundred dollars ($912,500), although socks is not the least performing product but hat which despite the quantity sold, the average revenue is the least on the product list for averages.
 
-The Southern region made the most revenue with four million, six hundred and seventy five thousand dollars ($4,675,000) selling three (3) products viz socks, shoes and gloves, this accounted for 44.16% of the total revenue, while the Western region made the least revenue, one million, five hundred and twelve thousand, five hundred dollars ($1,512,500) despite selling four (4) products viz socks, shoes, hat and gloves.
+*The illustration below shows the top performing product (shoes) in terms of generated revenue and some other items that may be interesting to note such as minimum and maximum unit price, minimum and maximum quantity sold, average of revenue, etc.*
 
+![PowerBI Pg 3](https://github.com/user-attachments/assets/18ec112f-aca4-4fc4-9619-c24f9f7c571e)
+
+The Southern region made the most revenue with four million, six hundred and seventy five thousand dollars ($4,675,000) selling three (3) products viz socks, shoes and gloves, this accounted for 44.16% of the total revenue, while the Western region made the least revenue, one million, five hundred and twelve thousand, five hundred dollars ($1,512,500) despite selling four (4) products viz socks, shoes, hat and gloves.
 
 
 #### Inference
