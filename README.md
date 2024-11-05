@@ -28,9 +28,9 @@ The Southern region made the most revenue with four million, six hundred and sev
 
 
 #### Inference
-- The West needs to be checked for why its not making huge sales
-- What is happening in the South that is making it record huge sales should be introduced in the West and other regions if possible
-- Hat can remain on the product list, since there will always be a product that will do well or not do well, in any case, the well performing product and the not so well performing product will always complement each other
+- There should be an investigation as to why the West is not making huge sales (revenue).
+- The tchnique employed in the South which helps the region to generate huge revenue should be introduce in the West and other regions if possible, so that all regions can make huge profits.
+- Hat can remain on the product list, since there will always be a product that will do well or not do well, in any case, the well performing product and the not so well performing product will complement each other
 
   #### 'K'OMMUNICATE SUBSCRIPTION SUMMARY
 This division deals with telecommunications, specifically, providing internet service to end users. It has three (3) subscription packages (Basic, Premium, Standard), and serviced four regions (East, North, South, West) in the period described, seventy five thousand (75,000) transactions was recorded amongst twenty (20) returning customers across all four (4) regions. While some regions had some subscription cancellations, the Eastern region subscribed for the Basic package only, and no one cancelled their subscriptions through out the contract tenure. 
