@@ -37,7 +37,15 @@ The Southern region made the most revenue with four million, six hundred and sev
 
 #### Additional Documentation
 The capstone project questions requires that we attend to some using Microsoft Excel and SQL respectively.
-Please see below images of Microsoft Excel worksheet and SQL management studion.
+Please see below images of Microsoft Excel worksheet and SQL management studio.
+
+- *Summary of sales_data using pivot tables and charts, it includes total sales by product, region, and month*
+
+![SalesData Excel Pg 1](https://github.com/user-attachments/assets/345d20cf-d486-4abc-8c0c-7d596a884536)
+
+![SalesData Excel Pg 2](https://github.com/user-attachments/assets/43d27df6-acce-4f1d-b2ab-fa531b9e13f0)
+
+- *Diagram showing Excel formulas to calculate metrics such as average sales per product, total revenue by region, and other interesting report*
 
   #### 'K'OMMUNICATE SUBSCRIPTION SUMMARY
 This division deals with telecommunications, specifically, providing internet service to end users. It has three (3) subscription packages (Basic, Premium, Standard), and serviced four regions (East, North, South, West) in the period described, seventy five thousand (75,000) transactions was recorded amongst twenty (20) returning customers across all four (4) regions. While some regions had some subscription cancellations, the Eastern region subscribed for the Basic package only, and no one cancelled their subscriptions through out the contract tenure. 
