@@ -89,7 +89,10 @@ This division deals with telecommunications, specifically, providing internet se
 ![PowerBI Pg4](https://github.com/user-attachments/assets/00a09ca7-396d-40ce-9bf4-c137320ad11b)
 
 
-#### Inference - To be added
+#### Inference
+- The retainership chart reveals that there are more cancellations than retaintion. North, South and West each had 11K subscriptions cancelled and 8K retention respectively.
+- There needs to be an investigation as to why customers cancelled their subscriptions.
+- The Eastern region had all 19K subscribers on the Basic package and none of them cancelled, this is to say that Basic subscription serves the Eastern people very well, thus, it is something the other regions can look into, perhaps having more of their subscribers on the Basic package to avoid or reduce subscription cancellation.
 
 
 #### Additional Documentation
