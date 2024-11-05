@@ -59,8 +59,11 @@ Please see below images of Microsoft Excel worksheet and SQL management studio.
 
 ![SaleData SQL Q3 4](https://github.com/user-attachments/assets/c5fd8a1d-09d5-4615-b821-291882b59f3c)
 
+![SaleData SQL Q5](https://github.com/user-attachments/assets/c95f4d53-8c98-48b1-9f48-0260f7dd789c)
+
 ![SaleData SQL Q6](https://github.com/user-attachments/assets/5ee081d0-53d3-4739-9a0b-e56dc6ab2824)
 
+![SaleData SQL Q7 8](https://github.com/user-attachments/assets/bfecc704-cee8-4b18-804f-315b33898d68)
 
   #### 'K'OMMUNICATE SUBSCRIPTION SUMMARY
 This division deals with telecommunications, specifically, providing internet service to end users. It has three (3) subscription packages (Basic, Premium, Standard), and serviced four regions (East, North, South, West) in the period described, seventy five thousand (75,000) transactions was recorded amongst twenty (20) returning customers across all four (4) regions. While some regions had some subscription cancellations, the Eastern region subscribed for the Basic package only, and no one cancelled their subscriptions through out the contract tenure. 
