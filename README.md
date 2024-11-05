@@ -8,17 +8,21 @@ The published document listed two segments of the company, these are *'K'lothing
 #### 'K'LOTHING LINE SALES OVERVIEW
 The section enlisted six products (Gloves, Hat, Jacket, Shirt, Shoes, Socks) and serviced four regions (East, North, South, West) in the period described, three hundred and forty five thousand (345,000) items/products was distributed across regions. While some regions had only three (3) products, others recorded four (4) products, but no region had all six (6) products at the concurrently.
 
-*The illustration below shows the sales (total generated revenue) by products and region on the left, a breakdown of regional revenue on the top right, the top performing product list on the bottom right, two slicers featuring product list and region on the bottom of the page.*
+*The illustration below shows the number of distinct products (6), distinct regions (4), products quantity distribution by region, two slicers featuring region and product list on the left side of the page, and overview of total sales by products and region on the right side of the page.*
 
-![PowerBI Pg1a](https://github.com/user-attachments/assets/bff11201-9436-49e0-9e07-45740e4618e5)
+![PowerBI Pg 1](https://github.com/user-attachments/assets/24b5f0f2-87ff-4392-8f31-e3e9f2d9cc75)
 
 Five hundred (500) returning customers were served, this was splited over fifty thousand (50,000) transaction entries, and each region made twelve thousand and five hundred (12,500) each of these entries. The revenue generated over this period amounted to ten million, five hundred and eighty seven thousand, five hundred U.S.D ($10,587,500).
+
+*The illustration below shows the transaction count (50,000), the returning customers (500), total revenue (10.59M), and regional revenue on the top row, and the regional transactions count, the itemised product revenue by region and the slicers at the bottom rows.*
+
+![PowerBI Pg 2](https://github.com/user-attachments/assets/b5e0a374-a68a-42af-82f5-c8dc59d5e6f5)
 
 Shoes appears to be the top performing product with generated revenue amount at three million, eighty seven thousand and five hundred dollars ($3,087,500) with shirt coming in as second in line. Socks is the least on the revenue list with nine hundred and twelve thousand, five hundred dollars ($912,500), although socks is not the least performing product but hat which despite the quantity sold, the average revenue is the least on the product list for averages.
 
 The Southern region made the most revenue with four million, six hundred and seventy five thousand dollars ($4,675,000) selling three (3) products viz socks, shoes and gloves, this accounted for 44.16% of the total revenue, while the Western region made the least revenue, one million, five hundred and twelve thousand, five hundred dollars ($1,512,500) despite selling four (4) products viz socks, shoes, hat and gloves.
 
-![PowerBI Pg2](https://github.com/user-attachments/assets/8a6723e6-9902-4d96-8a0a-95863dfdb342)
+
 
 #### Inference
 - The West needs to be checked for why its not making huge sales
