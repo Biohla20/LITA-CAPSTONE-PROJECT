@@ -46,10 +46,8 @@ Please see below images of Microsoft Excel worksheet and SQL management studio.
 ![SalesData Excel Pg 2](https://github.com/user-attachments/assets/43d27df6-acce-4f1d-b2ab-fa531b9e13f0)
 
 - *Diagram showing Excel formulas to calculate metrics such as average sales per product, total revenue by region, and other interesting report*
-
-![SalesData Excel Pg 1](https://github.com/user-attachments/assets/31210368-d75f-49f8-8f66-1c00a24d9a2e)
-
-![SalesData Excel Pg 2](https://github.com/user-attachments/assets/f4ee34b6-b5c1-46b1-9b09-5fdf5594c07e)
+  
+![SalesData Excel Pg 3](https://github.com/user-attachments/assets/1b9da008-4de3-4d7c-a8e5-5cbc41616a2b)
 
 - *Screenshots of answers to all the SQL questions for SalesData*
 
