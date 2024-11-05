@@ -98,7 +98,8 @@ Please see below images of Microsoft Excel worksheet and SQL management studio.
 
 
 ***Microsoft Excel images showing the pivot tables and others***
-Images to be added
+
+![CustomerData Excel sheet](https://github.com/user-attachments/assets/c818f019-0ee9-4230-b40e-6e3fa021c3a4)
 
 
 ***SQL images showing answers to all the SQL questions for CustomersData***
