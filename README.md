@@ -66,8 +66,28 @@ Please see below images of Microsoft Excel worksheet and SQL management studio.
   #### 'K'OMMUNICATE SUBSCRIPTION SUMMARY
 This division deals with telecommunications, specifically, providing internet service to end users. It has three (3) subscription packages (Basic, Premium, Standard), and serviced four regions (East, North, South, West) in the period described, seventy five thousand (75,000) transactions was recorded amongst twenty (20) returning customers across all four (4) regions. While some regions had some subscription cancellations, the Eastern region subscribed for the Basic package only, and no one cancelled their subscriptions through out the contract tenure. 
 
+*A general summary of the customers'behaviours regarding subscription, cancellation and the revenue status of the division is illustrated on the diagrams below.*
+
 ![PowerBI Pg 3](https://github.com/user-attachments/assets/5fcae494-f494-46ee-a566-28fb323b2bf5)
 
 ![PowerBI Pg4](https://github.com/user-attachments/assets/00a09ca7-396d-40ce-9bf4-c137320ad11b)
 
 #### Inference
+
+#### Additional Documentation
+The capstone project requires that we answer some questions using Microsoft Excel and SQL respectively.
+Please see below images of Microsoft Excel worksheet and SQL management studio.
+
+*Microsoft Excel images showing the pivot tables and others*
+
+*SQL images showing answers to all the SQL questions for CustomersData*
+
+![CustomerData SQL Q1 2](https://github.com/user-attachments/assets/8929f495-7546-494c-bb23-d673a614467d)
+
+![CustomerData SQL Q3](https://github.com/user-attachments/assets/5da29da7-e807-423d-82de-13581688d13a)
+
+![CustomerData SQL Q4 5 6](https://github.com/user-attachments/assets/b5c250d2-b6f5-46d2-9ea7-4601ab539fe9)
+
+![CustomerData SQL Q6 7 8](https://github.com/user-attachments/assets/dd8e6938-9ef4-4ad7-b951-79e29dfb3fae)
+
+![CustomerData SQL extra](https://github.com/user-attachments/assets/36090786-0272-41de-bf8e-dd015d40f1b1)
