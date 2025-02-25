@@ -2,12 +2,12 @@
 ## COMPANY NAME - KINI TO REWA
 ### Executive Summary
 KiniToRewa is a general merchandise limited liability company which originated from Lagos Nigeria and is currently located in Capetown South Africa.
-The company has recently published its quarterly financial status, as detailed on this document, however, a basic run through of the ups and downs recorded in the published document is seen below.
+The company has recently published its quarterly financial status, as detailed on this document, a basic run through of the ups and downs recorded in the published document is seen below.
 The published document listed two segments of the company, these are *'K'lothing Line* (the clothing brand of KiniToRewa) and *'K'ommunicate* (the telecommunication brand of KiniTorewa) respectively. 
 
 
 #### 'K'LOTHING LINE SALES OVERVIEW
-The section enlisted six products (Gloves, Hat, Jacket, Shirt, Shoes, Socks) and serviced four regions (East, North, South, West) in the period described, three hundred and forty five thousand (345,000) items/products was distributed across regions. While some regions had only three (3) products, others recorded four (4) products, but no region had all six (6) products at the concurrently.
+The section enlisted six products (Gloves, Hat, Jacket, Shirt, Shoes, Socks) and serviced four regions (East, North, South, West) in the period described, three hundred and forty five thousand (345,000) items/products was distributed across regions. While some regions had only three (3) products, others recorded four (4) products, but no region had all six (6) products concurrently.
 
 
 ***The illustration below shows the number of distinct products (6), distinct regions (4), products quantity distribution by region, two slicers featuring region and product list on the left side of the page, and overview of total sales by products and region on the right side of the page.***
